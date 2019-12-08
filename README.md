@@ -1,2 +1,2 @@
 # OSUECEcomputervision
-Project in 7866
+Projects in 7866
